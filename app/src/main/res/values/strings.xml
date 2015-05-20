@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LM</string>
+
+    <string-array name="Subjects">
+        <item>Mathematics</item>
+        <item>Language and literature</item>
+        <item>Informatics</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Singing</item>
+        <item>Sports</item>
+    </string-array>
+</resources>
